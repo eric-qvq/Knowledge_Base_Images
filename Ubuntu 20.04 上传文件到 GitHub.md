@@ -146,7 +146,7 @@ git push -u origin main
 
 如果在执行 `git push` 时遇到了这种报错信息，
 
-![image-20251126125036727](C:\Users\29800\AppData\Roaming\Typora\typora-user-images\image-20251126125036727.png)
+![image-20251126125036727](D:/Records/images/image-20251126125036727.png)
 
 
 
